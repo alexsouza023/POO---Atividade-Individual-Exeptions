@@ -11,7 +11,7 @@ public class ExeptionsApplication {
 
 
 		Lista lista = new Lista();
-		lista.ex01();
+		lista.ex03();
 
 	}
 
